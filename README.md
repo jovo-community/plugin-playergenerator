@@ -63,7 +63,7 @@ new PlayerGenerator({
       },
       avatar: {
         count: 50,
-        urlPattern: 'https://example.com/images/avatar{{index}}.png.',
+        urlPattern: 'https://example.com/images/avatar{{index}}.png',
       },
 }),
 ```

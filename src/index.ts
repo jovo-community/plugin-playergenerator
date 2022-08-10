@@ -6,4 +6,4 @@ declare module '@jovotech/framework/dist/types/Jovo' {
   }
 }
 
-export * from './JovoPlayerGenerator';
+export * from './PlayerGenerator';
